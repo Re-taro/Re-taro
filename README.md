@@ -6,8 +6,8 @@
 C++とPythonが書けます。(できるとは言っていない)<br>
 HTML/CSSとUnityを使ったゲーム開発を勉強しています。
 ### Hobbies
-?Listening Music(ONE OK ROCK,AliA,Orangestar)<br>
-?Taking Pictures<br>
-?Play Video Games(SSB,APEX,雀魂)
+🎼Listening Music(ONE OK ROCK,AliA,Orangestar)<br>
+📷Taking Pictures<br>
+🎮Play Video Games(SSB,APEX,雀魂)
 ## Links
 Twitter:```@10969_rintaro```/Discord:```Re-taro#2776```
