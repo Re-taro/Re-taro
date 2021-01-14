@@ -2,6 +2,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Re-taro&count_private=true&show_icons=true&theme=gotham" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re-taro&theme=gotham" />
+</a>
 ## 自己紹介
 りんちゃんです。.NIT SC(三重県　鈴鹿高専)の電子情報工学科に在学しています。<br>
 プログラミング歴1年にも満たないよわよわです。
