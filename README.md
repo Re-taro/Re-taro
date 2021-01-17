@@ -1,6 +1,6 @@
 # 10969_rintaro
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Re-taro&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Re-taro&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re-taro&layout=compact&theme=radical" />
