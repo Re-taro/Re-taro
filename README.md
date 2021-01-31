@@ -1,10 +1,8 @@
 # 10969_rintaro
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Re-taro&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Re-taro&count_private=true&show_icons=true&theme=gotham" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re-taro&theme=radical" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-taro&count_private=true&theme=darcula&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 自己紹介
 りんちゃんです。.NIT SC(三重県　鈴鹿高専)の電子情報工学科に在学しています。<br>
