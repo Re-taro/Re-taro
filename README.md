@@ -16,4 +16,4 @@ HTML/CSSとUnityを使ったゲーム開発を勉強しています。
 📷Taking Pictures<br>
 🎮Play Video Games(SSB,APEX,雀魂)
 ## Links
-[Twitter](https://twitter.com/10969_rintaro):```@10969_rintaro```/Discord:```Re_taro#2776```/[PortFolio](https://re-taro.github.io/)
+[Twitter](https://twitter.com/10969_rintaro):```@10969_rintaro```/Discord:```Re_taro#2776```/[Facebook](https://www.facebook.com/10969rintaro/)/[PortFolio](https://re-taro.github.io/)
