@@ -10,7 +10,7 @@
 プログラミング歴1年にも満たないよわよわです。
 ### Langages/Skills
 C++とPythonが書けます。(できるとは言っていない)<br>
-HTML/CSSとUnityを使ったゲーム開発を勉強しています。
+Unityを使ったゲーム開発,UE4を使ったゲーム開発を勉強しています。
 ### Hobbies
 🎼Listening Music(ONE OK ROCK,AliA,Orangestar)<br>
 📷Taking Pictures<br>
