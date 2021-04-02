@@ -9,7 +9,7 @@
 
 ## Skills
 
-![](https://img.shields.io/badge/-c++-ff69b4.svg?logo=C&style=for-the-badge)
+![](https://img.shields.io/badge/-c++-ff69b4?logo=C&style=for-the-badge)
 
 ## My stats
 
