@@ -16,8 +16,8 @@
 ![](https://img.shields.io/badge/unity-little-000000?logo=unity&style=for-the-badge)
 ![](https://img.shields.io/badge/git-little-F05032?logo=git&style=for-the-badge)
 ![](https://img.shields.io/badge/ubuntu-little-E95420?logo=ubuntu&style=for-the-badge)
+![](https://img.shields.io/badge/react-little-61DAFB?logo=react&style=for-the-badge)
 ![](https://img.shields.io/badge/twitter-pro-1DA1F2?logo=twitter&style=for-the-badge)
-
 
 ## My stats
 
@@ -26,3 +26,10 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-taro&count_private=true&theme=darcula&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+## Link
+- [Portfolio](https://10969-rintaro-portfolio.netlify.app/)
+- [Twitter](https://twitter.com/10969_rintaro/)
+- [GitHub](https://github.com/Re-taro/)
+- [Instagram](https://www.instagram.com/10969_rintaro/)
+- [Facebook](https://www.facebook.com/10969rintaro/)
