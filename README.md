@@ -9,8 +9,8 @@
 
 ## Skills
 
-![](https://img.shields.io/badge/-C++-little-ff69b4?logo=C&style=for-the-badge)
-![](https://img.shields.io/badge/-Python-little-40e0d0?logo=python&style=for-the-badge)
+![](https://img.shields.io/badge/C++-little-ff69b4?logo=C&style=for-the-badge)
+![](https://img.shields.io/badge/Python-little-40e0d0?logo=python&style=for-the-badge)
 ![]()
 
 ## My stats
