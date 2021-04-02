@@ -11,7 +11,13 @@
 
 ![](https://img.shields.io/badge/C++-little-ff69b4?logo=C&style=for-the-badge)
 ![](https://img.shields.io/badge/Python-little-40e0d0?logo=python&style=for-the-badge)
-![]()
+![](https://img.shields.io/badge/html-little-E34F26?logo=html5&style=for-the-badge)
+![](https://img.shields.io/badge/css-little-1572B6?logo=css3&style=for-the-badge)
+![](https://img.shields.io/badge/unity-little-000000?logo=unity&style=for-the-badge)
+![](https://img.shields.io/badge/git-little-F05032?logo=git&style=for-the-badge)
+![](https://img.shields.io/badge/ubuntu-little-E95420?logo=ubuntu&style=for-the-badge)
+![](https://img.shields.io/badge/twitter-pro-1DA1F2?logo=twitter&style=for-the-badge)
+
 
 ## My stats
 
