@@ -2,9 +2,8 @@
 
 ## Profile
 
-![](https://img.shields.io/badge/name-Rintaro-ee82ee)
-## Links
-[Twitter](https://twitter.com/10969_rintaro):```@10969_rintaro```/Discord:```Re_taro#2776```/[Facebook](https://www.facebook.com/10969rintaro/)/[PortFolio](https://10969-rintaro-portfolio.netlify.app)
+![](https://img.shields.io/badge/name-Rintaro-ee82ee?style=for-the-badge)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Re-taro&count_private=true&show_icons=true&theme=gotham" />
