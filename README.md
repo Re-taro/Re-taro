@@ -2,7 +2,7 @@
 
 ## Profile
 
-![](https://img.shields.io/badge/name-Rintaro-)
+![](https://img.shields.io/badge/name-Rintaro-ee82ee)
 ## Links
 [Twitter](https://twitter.com/10969_rintaro):```@10969_rintaro```/Discord:```Re_taro#2776```/[Facebook](https://www.facebook.com/10969rintaro/)/[PortFolio](https://10969-rintaro-portfolio.netlify.app)
 
