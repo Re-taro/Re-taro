@@ -22,10 +22,10 @@
 ## My stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Re-taro&count_private=true&show_icons=true&theme=darcula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Re-taro&count_private=true&show_icons=true&theme=iceberg" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-taro&count_private=true&theme=darcula&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-taro&count_private=true&theme=iceberg&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Link
 - [Portfolio](https://10969-rintaro-portfolio.netlify.app/)
